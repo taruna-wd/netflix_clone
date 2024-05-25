@@ -117,12 +117,16 @@
   }
   input {
     width: 80%;
-    margin-bottom: 1.2rem;
+    margin-bottom: 1rem;
     background-color: #00000073;
     border: 1px solid grey;
   }
   .col-2 video {
     width: 100%;
+  }
+  .red-btn{
+    height: 40px;
+    font-size: 1rem;
   }
 }
 @media only screen and (max-width: 400px) {
