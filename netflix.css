@@ -134,6 +134,10 @@ input {
   border-radius: 5px;
   border: none;
 }
+.mid{
+  text-align: center;
+  width: 80%;
+}
 /* -----------------------------
       end css of header
  ----------------------------*/
